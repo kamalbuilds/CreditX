@@ -1,9 +1,9 @@
 // Contract addresses - will be updated once titan deploys
 export const CONTRACTS = {
-  CreditReputation: "0x0000000000000000000000000000000000000000" as `0x${string}`,
-  UniversalVerifier: "0x0000000000000000000000000000000000000000" as `0x${string}`,
-  CreditXLendingPool: "0x0000000000000000000000000000000000000000" as `0x${string}`,
-  MockLendingSource: "0x0000000000000000000000000000000000000000" as `0x${string}`,
+  CreditReputation: "0x3f7FC08150709C22F1741A230351B59c36bCCc8a" as `0x${string}`,
+  UniversalVerifier: "0x2636Ed9F3Aa33589810BE07B48ad9Be79de3Fd7F" as `0x${string}`,
+  CreditXLendingPool: "0x95B4b7d7a23d954BF92FeDF2e00A374E22208D69" as `0x${string}`,
+  MockLendingSource: "0xafA4230B7154d95F1c8Bc13AD443b2e50bde7C57" as `0x${string}`,
 };
 
 export const CreditReputationABI = [
