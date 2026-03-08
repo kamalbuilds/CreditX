@@ -187,12 +187,13 @@ USC makes CreditX possible without any centralized intermediary. This is exactly
 
 | Contract | Address |
 |:---|:---|
-| CreditReputation | `TBD` |
-| UniversalVerifier | `TBD` |
-| CreditXLendingPool | `TBD` |
-| MockLendingSource | `TBD` |
+| CreditReputation | [`0x3f7FC08150709C22F1741A230351B59c36bCCc8a`](https://creditcoin-testnet.blockscout.com/address/0x3f7FC08150709C22F1741A230351B59c36bCCc8a) |
+| UniversalVerifier | [`0x2636Ed9F3Aa33589810BE07B48ad9Be79de3Fd7F`](https://creditcoin-testnet.blockscout.com/address/0x2636Ed9F3Aa33589810BE07B48ad9Be79de3Fd7F) |
+| CreditXLendingPool | [`0x95B4b7d7a23d954BF92FeDF2e00A374E22208D69`](https://creditcoin-testnet.blockscout.com/address/0x95B4b7d7a23d954BF92FeDF2e00A374E22208D69) |
+| MockLendingSource | [`0xafA4230B7154d95F1c8Bc13AD443b2e50bde7C57`](https://creditcoin-testnet.blockscout.com/address/0xafA4230B7154d95F1c8Bc13AD443b2e50bde7C57) |
 
 > Verify on [Creditcoin Testnet Blockscout](https://creditcoin-testnet.blockscout.com)
+> **Deployer**: `0x83F9d93ddfbaB266bf7c69110dC2F15e8fF3Ad4a`
 
 ## Getting Started
 

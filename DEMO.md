@@ -7,7 +7,11 @@
 
 ## Pre-Recording Setup
 
-- [ ] Contracts deployed to Creditcoin Testnet (Chain ID: 102031)
+- [x] Contracts deployed to Creditcoin Testnet (Chain ID: 102031)
+  - CreditReputation: `0x3f7FC08150709C22F1741A230351B59c36bCCc8a`
+  - UniversalVerifier: `0x2636Ed9F3Aa33589810BE07B48ad9Be79de3Fd7F`
+  - CreditXLendingPool: `0x95B4b7d7a23d954BF92FeDF2e00A374E22208D69`
+  - MockLendingSource: `0xafA4230B7154d95F1c8Bc13AD443b2e50bde7C57`
 - [ ] Frontend running on Vercel or localhost
 - [ ] Demo wallet loaded with tCTC from faucet
 - [ ] Lending pool pre-funded with tCTC deposits
